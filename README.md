@@ -8,3 +8,5 @@
 * Based off of the Pr(>|t|) values, vehicle length and ground clearance provided a non-random amount of variance to the MPG values in the dataset.
 * The slope of the linear model is not considered to be zero. This is due to the intercept value being one of statistical significance. Additionally, the p-value is 5.35 x 10^-11 which is significantly smaller than an assumed significance level of %0.05, thus providing further evidence of a non-zero slope.
 * The linear model does effectively predict MPG values for MechaCar prototypes. This is due to the r-squared value being approximately 0.71. 
+
+### Summary
