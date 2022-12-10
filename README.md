@@ -19,3 +19,6 @@ The image above is the lot summary data.
 ![total_summary](https://user-images.githubusercontent.com/111502918/206856890-723becd6-163e-4152-9a07-29ceba216067.PNG)
 
 The image above is the total summary data. 
+
+
+* Current MechaCar suspension coil designs specify that they cannot exceed a PSI variance of over 100 PSI. The total summary shows a variance of 62.29 PSI, which aligns with company standards. However, when each lot is considered individually, Lot 3 is an outlier. The lot summary data shows Lot 1 with a variance of 0.98 and Lot 2 with a variance of 7.47, both of which align with company standards. Lot 3 has a variance of 170.29, which is significantly above company requirements. Lot 3's PSI standards of operation must be adjusted moving forward. 
