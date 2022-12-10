@@ -9,4 +9,11 @@
 * The slope of the linear model is not considered to be zero. This is due to the intercept value being one of statistical significance. Additionally, the p-value is 5.35 x 10^-11 which is significantly smaller than an assumed significance level of %0.05, thus providing further evidence of a non-zero slope.
 * The linear model does effectively predict MPG values for MechaCar prototypes. This is due to the r-squared value being approximately 0.71. 
 
-### Summary
+### Summary Statistics on Suspension Coils
+
+![lot_summary](https://user-images.githubusercontent.com/111502918/206856882-39313ae4-3420-418f-863c-8616748f2757.PNG)
+The image above is the lot summary data.
+
+
+![total_summary](https://user-images.githubusercontent.com/111502918/206856890-723becd6-163e-4152-9a07-29ceba216067.PNG)
+The image above is the total summary data. 
