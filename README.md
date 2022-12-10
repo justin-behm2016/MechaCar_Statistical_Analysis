@@ -40,3 +40,12 @@ The image above is the total summary data.
 * Lot 1 has a p-value of 1, significantly higher than an assumed significance value of 0.05 percent. This allows the null hypothesis to be rejected, meaning the Lot 1 mean is statistically similar to the mean value of 1500.
 * Lot 2 has a p-value of 0.61 which is also significantly higher than the assumed significance value. This means the null hypothesis can be rejected again, meaning the Lot 2 mean is statistically similar to the mean value of 1500.
 * Lot 3 has a p-value of 0.04 which is not significantly higher than the assumed significance value. Due to this, the null hypothesis cannot be rejected, meaning the Lot 3 mean is statistically differenet compared to the mean value of 1500.
+
+
+## Study Design: MechaCar vs Competition
+
+* The next step in design should be to conduct a variety of statistical studies to compare how the MechaCar will sell compared to its competitors. I recommend breaking these studies down to compare one independent variable to one dependent variable. In all example studies, the vehicle price will remain the dependent variable. 
+  * Our null hypothesis will be "The MechaCar CAN outcompete other cars in sales."
+  * Our alternative hypothesis will be "The MechaCar CANNOT outcompete other cars in sales."
+
+* I recommend doing studies on a variety of metrics that are important to consumers. The studies should compare the dependent variable (price) to a variety of independent variables: fuel efficiency, safety rating, maintenance cost, and bonus features (such as cargo space, electric/hybrid engine capabilities, sound systems, etc). The data of MechaCar vs competitors can be tested using linear models and t-tests. Gathering data on how MechaCar fairs against its competitors will allow the price of the vehicle to fluctuate. Finally, the marketing plan can focus on the aspects that the MechaCar excels at, thus directly marketing to consumers who prioritize these metrics. 
