@@ -9,6 +9,7 @@
 * The slope of the linear model is not considered to be zero. This is due to the intercept value being one of statistical significance. Additionally, the p-value is 5.35 x 10^-11 which is significantly smaller than an assumed significance level of %0.05, thus providing further evidence of a non-zero slope.
 * The linear model does effectively predict MPG values for MechaCar prototypes. This is due to the r-squared value being approximately 0.71. 
 
+
 ## Summary Statistics on Suspension Coils
 
 ![lot_summary](https://user-images.githubusercontent.com/111502918/206856882-39313ae4-3420-418f-863c-8616748f2757.PNG)
@@ -36,3 +37,6 @@ The image above is the total summary data.
 
 
 * Pictured above are the T Test results ran on each lot individually, comparing lots 1, 2, and 3 to the mean value of 1500 (with lots going 1, 2, then 3 in decending order). 
+* Lot 1 has a p-value of 1, significantly higher than an assumed significance value of 0.05 percent. This allows the null hypothesis to be rejected, meaning the Lot 1 mean is statistically similar to the mean value of 1500.
+* Lot 2 has a p-value of 0.61 which is also significantly higher than the assumed significance value. This means the null hypothesis can be rejected again, meaning the Lot 2 mean is statistically similar to the mean value of 1500.
+* Lot 3 has a p-value of 0.04 which is not significantly higher than the assumed significance value. Due to this, the null hypothesis cannot be rejected, meaning the Lot 3 mean is statistically differenet compared to the mean value of 1500.
